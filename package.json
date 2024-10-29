@@ -1,7 +1,7 @@
 {
   "name": "basic-app",
   "version": "0.1.0",
-  "homepage": "http://razzaksr.github.io/Salem-React-NM",
+  "homepage": "https://razzaksr.github.io/Salem-React-NM",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
