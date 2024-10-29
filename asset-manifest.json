@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Salem-React-NM/static/css/main.e0c47cbd.css",
+    "main.js": "/Salem-React-NM/static/js/main.1f943434.js",
+    "static/media/bootstrap-icons.woff?": "/Salem-React-NM/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Salem-React-NM/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/laptop.webp": "/Salem-React-NM/static/media/laptop.844f661d2325e00f22e2.webp",
+    "index.html": "/Salem-React-NM/index.html",
+    "main.e0c47cbd.css.map": "/Salem-React-NM/static/css/main.e0c47cbd.css.map",
+    "main.1f943434.js.map": "/Salem-React-NM/static/js/main.1f943434.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0c47cbd.css",
+    "static/js/main.1f943434.js"
+  ]
+}
